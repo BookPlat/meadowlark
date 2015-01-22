@@ -1,0 +1,23 @@
+{
+  "name": "meadowlark",
+  "version": "1.0.0",
+  "description": "meadowlark test",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BookPlat/meadowlark.git"
+  },
+  "author": "Ben",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BookPlat/meadowlark/issues"
+  },
+  "homepage": "https://github.com/BookPlat/meadowlark",
+  "dependencies": {
+    "express": "^4.11.1",
+    "express-handlebars": "^1.1.0"
+  }
+}
